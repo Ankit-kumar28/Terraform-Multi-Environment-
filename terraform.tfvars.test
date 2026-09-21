@@ -1,0 +1,5 @@
+region         = "ap-south-1"
+environment    = "test"
+instance_type  = "t3.micro"
+instance_count = 2
+project_name   = "multi-env-app"
